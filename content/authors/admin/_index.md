@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 龙柯宇
+name_pronunciation: Keyu Long
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,11 +15,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: UCSD
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'My goal is to decrease social inequality with Artificial Intelligence.'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -28,22 +28,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/spacex/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: 'mailto:keyuucsd@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
